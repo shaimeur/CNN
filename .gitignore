@@ -1,0 +1,10 @@
+# Python virtual environment (recreate with: uv venv --python 3.11 .venv)
+.venv/
+__pycache__/
+*.pyc
+
+# Working artifacts from setup / execution
+.install.log
+.nbrun.log
+*.bak
+.ipynb_checkpoints/
